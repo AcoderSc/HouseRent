@@ -1,0 +1,27 @@
+
+k
+java:S1149P"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û€Ã«úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÆ±Üùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(È­…ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÆ±Üùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(È­…ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÆ±Üùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å°íëüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(×†ßïıÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(Ş£à•8‘‹Ö”î/
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü©ô×
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(ëÑ¡ûşÿÿÿÿ
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(ùœºş
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(áşƒ¯ÿÿÿÿÿ
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ğãĞÌøÿÿÿÿ
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(áşƒ¯ÿÿÿÿÿ
+[	java:S106¶"9Replace this use of System.out or System.err by a logger.(¹ü¯„şÿÿÿÿ8š–Õ”î/
+s	java:S135d"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+t	java:S135‘"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+t	java:S135©"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+T
+java:S1155X">Use isEmpty() to check whether the collection is empty or not.(äÛŸ–
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·ıñİ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öˆŸÚ

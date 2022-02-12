@@ -1,0 +1,11 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(Ê‚ñ‘şÿÿÿÿ8±ş‚ºî/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œÕ…ª
+M	java:S1063"9Replace this use of System.out or System.err by a logger.(œÆƒ\
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(–Õ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(–«µ¿üÿÿÿÿ
+Q	java:S125c"<This block of commented-out lines of code should be removed.(ìôã
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(½­½İÿÿÿÿÿ8Ø£€ºî/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÙ•†ùÿÿÿÿ
+Z
+java:S2259)"DA "NullPointerException" could be thrown; "curboy" is nullable here.(Îûíº

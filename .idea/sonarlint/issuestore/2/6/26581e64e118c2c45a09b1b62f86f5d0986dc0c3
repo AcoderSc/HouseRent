@@ -1,0 +1,11 @@
+
+h	java:S116"SRename this field "HeadNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž¶ƒò
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É…»öùÿÿÿÿ
+c	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉºÊ“
+M	java:S1062"9Replace this use of System.out or System.err by a logger.(žÆßo
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(ùœºþ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(£º Ñýÿÿÿÿ
+n	java:S135&"YReduce the total number of break and continue statements in this loop to use at most one.(«Åøô
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É…»öùÿÿÿÿ
+f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉºÊ“
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öˆŸÚ

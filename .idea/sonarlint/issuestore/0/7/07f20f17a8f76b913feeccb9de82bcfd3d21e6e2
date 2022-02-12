@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õ«â÷ıÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ˆÒ‚Öøÿÿÿÿ
+h	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚İ‡¤ûÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(àËÌêøÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(àËÌêøÿÿÿÿ
+C
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘È¤şÿÿÿÿ
+W
+java:S2259"AA "NullPointerException" could be thrown; "cur" is nullable here.(±ªøÛ
